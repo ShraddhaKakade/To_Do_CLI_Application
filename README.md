@@ -4,8 +4,7 @@
 ----> This python file contains a dictionary of **_'todo_commands':'function_objects'_** key-value pairs
 
 #### **2) todos.py**
-----> This python file contains all the required functions to operate the commands in CLI . 
-----> The functions are as follows :
+----> This python file contains all the required functions to operate the commands in CLI . The functions are as follows :
 
 ##### **a.** **_add_item()_** :- This function adds todos to the todo list - **_'list1'_**
 ##### **b.** **_show_items()_** :- This function displays list of all todos
