@@ -1,9 +1,9 @@
 ### **[A] "commands" directory :**
 
-### **1) __init__.py**
+#### **1) __init__.py**
 ----> This python file contains a dictionary of **_'todo_commands':'function_objects'_** key-value pairs
 
-### **2) todos.py**
+#### **2) todos.py**
 ----> This python file contains all the required functions to operate the commands in CLI . 
 ----> The functions are as follows :
 
